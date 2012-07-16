@@ -1,0 +1,50 @@
+<?php
+$lang['RETOURNER_PAGE_PRINCIPALE'] = "Volver a la Página Principal";
+$lang['ACHAT_PILOTE_BIENVENUE'] = "Bienvenido a la página de compra de un nuevo piloto. Puedes gestionar hasta <b>5</b> pilotos en total.";
+$lang['NATIONALITE'] = "Nacionalidad";
+$lang['SALAIRE'] = "Salary";
+$lang['AGE'] = "Edad";
+$lang['POIDS'] = "Peso";
+$lang['TR'] = "T.R.";
+$lang['ENDURANCE'] = "Resistencia";
+$lang['CARACTERE'] = "Carácter";
+$lang['CP'] = "C.F.";
+$lang['EXP'] = "Exp";
+$lang['ARRETS'] = "P.S.";
+$lang['CH_PNEUS'] = "C.de Ruedas";
+$lang['DEPARTS'] = "Salidas";
+$lang['DEPASS'] = "Adelantamientos";
+$lang['CHOIX'] = "Elección";
+$lang['CHOISIR_CE_PILOTE'] = "Elegir este piloto";
+$lang['EXPLICATIONS_TPS_REAC'] = "Tiempo de reacción (milliseconds)";
+$lang['EXPLICATIONS_COND_PHY'] = "Condición Física";
+$lang['EXPLICATIONS_EXP'] = "Experiencia (cantidad de Grandes Premios disputados)";
+$lang['EXPLICATIONS_ARRETS'] = "Pit stops";
+$lang['EXPLICATIONS_CH'] = "Habilidad para calentar las ruedas antes de la carrera para mejorar el agarre";
+$lang['EXPLICATIONS_DEPARTS'] = "Capacidad para realizar buenas salidas";
+$lang['EXPLICATIONS_DEPASS'] = "Capacidad para adelantar a tus rivales";
+$lang['PAGE_ACCUEIL_PILOTE'] = "Bienvenido a la página de gestión de tus pilotos. Puedes gestionar un máximo de 5 conductores (y por lo tanto puedes llevar hasta cinco coches). En esta página puedes gestionar su salario,
+cambiar su nombre, comprar nuevos pilotos... También puedes entrenar y desarrollar sus habilidades a través de entrenamientos.<br />
+¡Atención! Un piloto puede decidir abandonar el equipo de forma voluntaria, si su estado de ánimo es malo (malos resultados, bajos salarios, etc.). En tal caso, el piloto deberá pagarte una indemnización.";
+$lang['PILOTE'] = "Piloto";
+$lang['HUMEUR'] = "Estado de ánimo";
+$lang['ANS'] = "años";
+$lang['CHANGER_NOM'] = "Cambiar nombre";
+$lang['CHANGER'] = "Cambiar";
+$lang['LICENCIER'] = "Despedir";
+$lang['ETES_VOUS_SUR'] = "Estás seguro?";
+$lang['ENGAGER_AUTRE_PILOTE'] = "Contratar otro piloto";
+$lang['EXPLICATIONS_ENGAGEMENT'] = "Puedes tener 5 pilotos. Pincha abajo para contratar otro piloto.";
+$lang['VOIR_MARCHE_PILOTES'] = "Mirar el mercado de pilotos";
+$lang['CHOISISSEZ_PILOTE'] = "Elegir un piloto";
+$lang['SALAIRE_DU_PILOTE'] = "Salario del piloto";
+$lang['VOTRE_PILOTE_TOUCHE'] = "Tu piloto gana actualmente";
+$lang['EXPLICATIONS_SALAIRE'] = "Puedes cambiar este valor. Advertencia: es posible cambiarlo una sola vez a la semana.";
+$lang['ATTENTION_SALAIRE'] = "¡Atención! Con salarios bajos, el piloto estará de mal humor. En tal caso, puede decidir dejar el equipo si quiere!";
+$lang['EXPLICATIONS_TPS_REAC'] = "El tiempo de reacción es fundamental para un piloto. Un tiempo de reacción bajo mejorará los tiempos de tu piloto y reducirá el riesgo de accidentes ...<br />
+Ahora puedes hacer ejercicios especiales para que tu piloto reduzca su tiempo de reacción.";
+$lang['TPS_REAC_ACTUEL'] = "Tiempo de reacción actual";
+$lang['COUT_REDUCTION'] = "Coste para reducir el tiempo de reacción";
+$lang['FATIGUE'] = "Cansancio ";
+$lang['REDUIRE_LE_TPS_REAC'] = "Reducir el tiempo de reacción del piloto";
+$lang['EXPERIENCE'] = "Experiencia";

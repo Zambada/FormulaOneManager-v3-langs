@@ -1,0 +1,30 @@
+<?php
+
+$lang['GERER_COMPTE'] = "Manage my account";
+$lang['EXPLICATIONS_COMPTE'] = "Here you can manage your personal information, your preferences and your account.";
+$lang['MODIFIER_MDP'] = "Change my password";
+$lang['INFO_MODIFIER_MDP'] = "You can change your password. Remember to put a strong password to have a fully secure account.";
+$lang['ANCIEN_MDP'] = "Old Password";
+$lang['NOUVEAU_MDP'] = "New Password";
+$lang['CONFIRMATION'] = "Confirmation";
+$lang['CHANGER'] = "Change";
+$lang['MODIFIER_EMAIL'] = "Change my email address";
+$lang['INFOS_MODIF_EMAIL'] = "It is important to have a valid email address in case of lost password or to send important email from the administrators of FOM.";
+$lang['NOUVELLE_ADRESSE_MAIL'] = "New email address";
+$lang['MODIFIER_AVATAR'] = "Change my avatar";
+$lang['INFOS_MODIFIER_AVATAR'] = "Your avatar is visible on your profile and on the forums. <strong>Shocking, animated or ads avatars will be removed by administrators</strong>.";
+$lang['AVATAR_ACTUEL'] = "Current avatar";
+$lang['PAS_AVATAR'] = "No avatar";
+$lang['UPLOADER_NOUVEL_AVATAR'] = "Upload a new avatar";
+$lang['REINITIALISER_COMPTE'] = "Reset my account";
+$lang['EXPLICATIONS_REINITIALISER_COMPTE'] = "By resetting your account, you will leave from 0, as if you just create your account.";
+$lang['WARN_REINITIALISER'] = "Warning! This action is irreversible.";
+$lang['CONFIRMATION_REINITIALISATION'] = "I confirm resetting my account";
+$lang['VALIDER'] = "OK";
+$lang['INFO_MODIFIER_ECURIE'] = "The name of your team appears in the rankings, forums, etc.";
+$lang['MODIFIER_NOM_ECURIE'] = "Edit my team name";
+$lang['ANCIEN_NOM'] = "Old name";
+$lang['NOUVEAU_NOM'] = "New name";
+$lang['MODIFIER_OPTIONS_NAVIGATION'] = "Change navigation options";
+$lang['INFOS_MODIF_OPTIONS_NAVIGATION'] = "You can here change your navigation options about the website and the game.";
+$lang['DESACTIVER_SLIDERS_REGLAGES'] = "Disable sliders for car's settings";

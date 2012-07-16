@@ -1,0 +1,82 @@
+<?php
+
+// Tous les messages "verts", à savoir qui annoncent que quelque chose s'est bien déroulé
+//$lang['msg'][1][1]  = "Vous êtes maintenant inscrit, félicitations ! Un mail vous a été envoyé avec un lien permettant de valider votre compte. <br />ATTENTION : <strong>Vérifiez votre boîte de spam</strong> si vous êtes chez hotmail !";
+$lang['msg'][1][1]  = "Vous êtes maintenant inscrit, félicitations ! Vous pouvez maintenant vous connecter.";
+$lang['msg'][1][2]  = "Vous êtes maintenant connecté au site !";
+$lang['msg'][1][3]  = "Votre compte a bien été validé, vous pouvez vous connecter !";
+$lang['msg'][1][4]  = "Vous êtes maintenant déconnecté !";
+$lang['msg'][1][5]  = "Votre clan a été créé avec succès !";
+$lang['msg'][1][6]  = "Les informations de votre clan ont bien été changées.";
+$lang['msg'][1][7]  = "Vous avez quitté le clan.";
+$lang['msg'][1][8]  = "La candidature a bien été traitée.";
+$lang['msg'][1][9]  = "Vous avez légué votre clan avec succès. Vous vous retrouvez donc maintenant sans clan.";
+$lang['msg'][1][10] = "Votre clan a été supprimé avec succès.";
+$lang['msg'][1][11] = "Votre candidature pour rejoindre le clan a bien été prise en compte. Il faut maintenant attendre que l'administrateur du clan l'accepte ou non.";
+$lang['msg'][1][12]	= "Votre candidature a bien été supprimée.";
+$lang['msg'][1][13]	= "Le nom de votre pilote a bien été changé.";
+$lang['msg'][1][14] = "Le salaire de votre pilote a bien été changé.";
+$lang['msg'][1][15] = "Le temps de réaction de votre pilote a bien été baissé.";
+$lang['msg'][1][16] = "Votre pilote a bien été licencié.";
+$lang['msg'][1][17] = "Votre pilote a bien été engagé !";
+$lang['msg'][1][18] = "Faites votre choix.";
+$lang['msg'][1][19] = "Vous êtes sur la page de gestion de vos chercheurs.";
+$lang['msg'][1][20]	= "La réparation de votre voiture a débuté.";
+$lang['msg'][1][21] = "L'augmentation de puissance de moteur a été effectuée avec succès.";
+$lang['msg'][1][22] = "Cette caractéristique a été montée avec succès.";
+$lang['msg'][1][23] = "Le nombre de chercheurs a bien été changé. Vous devez maintenant attendre 2h pour faire d'autres modifications";
+$lang['msg'][1][24] = "Votre pilote a bien effectué un tour d'essais.";
+$lang['msg'][1][25] = "Votre pilote a bien effectué un tour de qualifications.";
+$lang['msg'][1][26] = "Votre message a bien été posté.";
+$lang['msg'][1][27] = "Ce message a bien été édité.";
+$lang['msg'][1][28] = "Ce message a bien été supprimé.";
+$lang['msg'][1][29] = "Votre sujet a bien été créé.";
+$lang['msg'][1][30] = "L'action a bien été effectuée.";
+$lang['msg'][1][31] = "Le message privé a bien été envoyé.";
+$lang['msg'][1][32] = "Le message a bien été supprimé.";
+$lang['msg'][1][33] = "Le mot de passe a été changé avec succès.";
+$lang['msg'][1][34] = "Votre adresse email a bien été mise à jour.";
+$lang['msg'][1][35] = "Les réglages ont bien été appliqués à toutes vos voitures.";
+
+// Tous les messages "rouges", à savoir qui annoncent quelque chose qui s'est mal déroulé
+$lang['msg'][2][1]  = "Vous êtes déjà connecté.";
+$lang['msg'][2][2]  = "Pseudo ou mot de passe incorrect. Merci de retenter.";
+$lang['msg'][2][3]  = "Votre compte n'est pas validé. Un mail vous a été envoyé avec le lien permettant d'activer votre compte (pensez à regarder votre boite de spam !)";
+$lang['msg'][2][4]  = "Votre hash de validation ne correspond pas ou votre compte est déjà validé.";
+$lang['msg'][2][5]  = "Vous devez vous connecter pour accéder à cette page.";
+$lang['msg'][2][6]  = "Désolé mais il semblerait que ce clan n'existe pas.";
+$lang['msg'][2][7]	= "Vous avez déjà postulé à un clan ! Une seule candidature à la fois. ;)";
+$lang['msg'][2][8]  = "Le temps de réaction de votre pilote est déjà au minimum. Il n'est plus possible de le descendre.";
+$lang['msg'][2][9]  = "Vous n'avez plus assez d'argent !";
+$lang['msg'][2][10] = "Vous n'avez pas de pilote !";
+$lang['msg'][2][11]	= "Vous avez déjà un pilote !";
+$lang['msg'][2][12] = "Vous avez déjà 5 pilotes, c'est le maximum !";
+$lang['msg'][2][13]	= "Une erreur interne est survenue.";
+$lang['msg'][2][14]	= "Vous avez déjà augmenté au maximum la puissance du moteur.";
+$lang['msg'][2][15] = "Vous avez déjà baissé au maximum la consommation du moteur.";
+$lang['msg'][2][16] = "Cette caractéristique est déjà montée au maximum.";
+$lang['msg'][2][17] = "Votre pilote est trop fatigué !";
+$lang['msg'][2][18] = "Vous n'avez plus assez de tours.";
+$lang['msg'][2][19] = "Vous avez déjà fait le maximum de tentatives de qualifications possibles avec ce pilote.";
+$lang['msg'][2][20] = "Votre réponse est vide.";
+$lang['msg'][2][21] = "Ce sujet semble ne pas exister.";
+$lang['msg'][2][22] = "Vous n'avez pas le droit d'éditer ce message.";
+$lang['msg'][2][23] = "Vous n'avez pas le droit de supprimer ce message.";
+$lang['msg'][2][24] = "Vous devez supprimer toutes les réponses avant de supprimer le premier message de ce topic.";
+$lang['msg'][2][25] = "Merci de remplir tous les champs !";
+$lang['msg'][2][26] = "Vous n'avez pas le droit de voir cette page !";
+$lang['msg'][2][27] = "Vous avez déjà effectué vos 4 tours de qualifications !";
+$lang['msg'][2][28] = "Seuls les membres du staff peuvent créer des sujets dans cette section.";
+$lang['msg'][2][29] = "Vous n'avez pas assez d'argent ou de tours pour effectuer cette action.";
+$lang['msg'][2][30] = "Vous ne pouvez pas accepter ce joueur. La limite de joueurs par clan est de 10";
+$lang['msg'][2][31] = "Un des champs mot de passe est incorrect ou vide. Merci de réessayer.";
+$lang['msg'][2][32] = "Un des champs email est incorrect ou vide. Merci de réessayer.";
+$lang['msg'][2][33] = "Le champ pseudo est vide !";
+$lang['msg'][2][34] = "Le champ pays est vide !";
+$lang['msg'][2][35] = "Ce joueur est introuvable !";
+$lang['msg'][2][36] = "Ce MP est introuvable ou vous n'avez pas le droit de le voir.";
+$lang['msg'][2][37] = "Ce joueur existe déjà ! Merci d'utiliser un autre pseudo.";
+$lang['msg'][2][38] = "Le mot de passe est incorrect.";
+$lang['msg'][2][39] = "Vous avez alloué plus que le nombre de techniciens dont vous disposez !";
+
+?>

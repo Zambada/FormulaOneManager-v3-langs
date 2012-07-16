@@ -1,0 +1,29 @@
+<?php
+
+$lang['START_BIENVENUE'] = "Bienvenue sur FOM !";
+$lang['START_A_SAVOIR'] = "A savoir: la plupart de ces caractéristiques pourront être développées en effectuant différents entraînements.";
+$lang['START_EXPLICATIONS'] = "Bonjour et bienvenue sur Formula One Manager ! Votre inscription s'est bien déroulée, vous êtes maintenant presque prêt à démarrer le jeu. ";
+$lang['START_EXPLICATIONS2'] = "Tout d'abord, il vous faut choisir un pilote à engager parmi les choix ci-dessous. Attention à bien gérer votre argent !";
+$lang['START_LISTE_PILOTES'] = "Liste de pilotes";
+$lang['NATIONALITE'] = "Nationalité";
+$lang['SALAIRE'] = "Salaire";
+$lang['AGE'] = "Age";
+$lang['POIDS'] = "Poids";
+$lang['TR'] = "T.R";
+$lang['ENDURANCE'] = "Endurance";
+$lang['CARACTERE'] = "Caractère";
+$lang['CP'] = "C.P";
+$lang['EXP'] = "Exp";
+$lang['ARRETS'] = "A.S";
+$lang['CH_PNEUS'] = "Ch. Pneus";
+$lang['DEPARTS'] = "Départs";
+$lang['DEPASS'] = "Dépass.";
+$lang['CHOIX'] = "Choix";
+$lang['CHOISIR_CE_PILOTE'] = "Choisir ce pilote";
+$lang['EXPLICATIONS_TPS_REAC'] = "Temps de réaction (en millisecondes)";
+$lang['EXPLICATIONS_COND_PHY'] = "Condition Physique";
+$lang['EXPLICATIONS_EXP'] = "Expérience (en nombre de Grand Prix)";
+$lang['EXPLICATIONS_ARRETS'] = "Arrêts aux stands";
+$lang['EXPLICATIONS_CH'] = "Capacité à chauffer ses pneus avant la course pour une meilleure adhérence";
+$lang['EXPLICATIONS_DEPARTS'] = "Capacité à faire de bons départs";
+$lang['EXPLICATIONS_DEPASS'] = "capacité à dépasser ses concurrents";

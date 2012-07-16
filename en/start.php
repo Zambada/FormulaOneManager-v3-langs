@@ -1,0 +1,29 @@
+<?php
+
+$lang['START_BIENVENUE'] = "Welcome to Formula One Manager !";
+$lang['START_A_SAVOIR'] = "ie: most of these characteristics can be developed by performing various exercises.";
+$lang['START_EXPLICATIONS'] = "Welcome to Formula One Manager! Your registration was successful, you are now ready to start the game. ";
+$lang['START_EXPLICATIONS2'] = "First, you must choose to hire a driver from the choices below. Be careful to manage your money!";
+$lang['START_LISTE_PILOTES'] = "Driver list";
+$lang['NATIONALITE'] = "Nationality";
+$lang['SALAIRE'] = "Salary";
+$lang['AGE'] = "Age";
+$lang['POIDS'] = "Weight";
+$lang['TR'] = "R.T";
+$lang['ENDURANCE'] = "Stamina";
+$lang['CARACTERE'] = "Character";
+$lang['CP'] = "P.C";
+$lang['EXP'] = "Exp";
+$lang['ARRETS'] = "P.S";
+$lang['CH_PNEUS'] = "Tyres W.U";
+$lang['DEPARTS'] = "Startings";
+$lang['DEPASS'] = "Overtaking";
+$lang['CHOIX'] = "Choice";
+$lang['CHOISIR_CE_PILOTE'] = "Choose this driver";
+$lang['EXPLICATIONS_TPS_REAC'] = "the reaction time (milliseconds)";
+$lang['EXPLICATIONS_COND_PHY'] = "Physical Condition";
+$lang['EXPLICATIONS_EXP'] = "Experience (number of Grand Prix)";
+$lang['EXPLICATIONS_ARRETS'] = "Pit stops";
+$lang['EXPLICATIONS_CH'] = "Ability to warm up his tires before the race for better grip";
+$lang['EXPLICATIONS_DEPARTS'] = "Ability to make good starts";
+$lang['EXPLICATIONS_DEPASS'] = "ability to outperform its competitors";

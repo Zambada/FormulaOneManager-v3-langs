@@ -1,0 +1,30 @@
+<?php
+
+$lang['GERER_COMPTE'] = "Gérer mon compte";
+$lang['EXPLICATIONS_COMPTE'] = "Vous avez ici la possibilité de gérer vos informations personnelles, vos préférences et votre compte.";
+$lang['MODIFIER_MDP'] = "Modifier mon mot de passe";
+$lang['INFO_MODIFIER_MDP'] = "Vous pouvez ici modifier votre mot de passe. Pensez à mettre un mot de passe difficile pour que votre compte soit pleinement sécurisé.";
+$lang['ANCIEN_MDP'] = "Ancien mot de passe";
+$lang['NOUVEAU_MDP'] = "Nouveau mot de passe";
+$lang['CONFIRMATION'] = "Confirmation";
+$lang['CHANGER'] = "Changer";
+$lang['MODIFIER_EMAIL'] = "Modifier mon adresse email";
+$lang['INFOS_MODIF_EMAIL'] = "Il est important d'avoir une adresse email valide en cas de perte de mot de passe ou d'envoi d'email important de la part des administrateurs de FOM.";
+$lang['NOUVELLE_ADRESSE_MAIL'] = "Nouvelle adresse email ";
+$lang['MODIFIER_AVATAR'] = "Modifier mon avatar";
+$lang['INFOS_MODIFIER_AVATAR'] = "Votre avatar est visible sur votre profil ainsi que sur les forums. <strong>Les avatars choquants, publicitaires ou animés se verront retirés par les administrateurs</strong>.";
+$lang['AVATAR_ACTUEL'] = "Avatar actuel";
+$lang['PAS_AVATAR'] = "Pas d'avatar";
+$lang['UPLOADER_NOUVEL_AVATAR'] = "Uploader un nouvel avatar";
+$lang['REINITIALISER_COMPTE'] = "Réinitialiser mon compte";
+$lang['EXPLICATIONS_REINITIALISER_COMPTE'] = "En réinitialisant votre compte, vous repartirez de 0, comme si vous veniez de créer votre compte.";
+$lang['WARN_REINITIALISER'] = "Attention ! Cette action est irréversible.";
+$lang['CONFIRMATION_REINITIALISATION'] = "Je confirme la réinitialisation de mon compte";
+$lang['VALIDER'] = "Valider";
+$lang['INFO_MODIFIER_ECURIE'] = "Le nom de votre écurie apparaît dans les classements, sur les forums, etc.";
+$lang['MODIFIER_NOM_ECURIE'] = "Modifier le nom de mon écurie";
+$lang['ANCIEN_NOM'] = "Ancien nom";
+$lang['NOUVEAU_NOM'] = "Nouveau nom";
+$lang['MODIFIER_OPTIONS_NAVIGATION'] = "Modifier les options de navigation";
+$lang['INFOS_MODIF_OPTIONS_NAVIGATION'] = "Vous pouvez modifier ici vos options de navigation sur le site et le jeu.";
+$lang['DESACTIVER_SLIDERS_REGLAGES'] = "Désactiver les sliders des réglages";

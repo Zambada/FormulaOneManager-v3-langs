@@ -1,0 +1,2 @@
+<?php
+$ergferge['afez'] = "feerg";
